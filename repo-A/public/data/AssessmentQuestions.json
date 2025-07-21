@@ -1,0 +1,161 @@
+[
+  {
+    "id": "1",
+    "qno": "0",
+    "qlabel": "MCQ - Python - Easy",
+    "qtext": "What is the print type of the following Python code: print(type(5))",
+    "qtype": "MCQ",
+    "qoptions": [
+      "int",
+      "float",
+      "str",
+      "bool"
+    ],
+    "qlanguage": [],
+    "difficulty": "Easy",
+    "qmulticheck": false
+  },
+  {
+    "id": "2",
+    "qno": "1",
+    "qlabel": "MCQ - Data Structures - Medium",
+    "qtext": "What is the average time complexity of a binary search algorithm in a sorted array?",
+    "qtype": "MCQ",
+    "qoptions": [
+      "O(1)",
+      "O(log n)",
+      "O(n)",
+      "O(n log n)"
+    ],
+    "qlanguage": [],
+    "difficulty": "Medium",
+    "qmulticheck": false
+  },
+  {
+    "id": "3",
+    "qno": "2",
+    "qlabel": "MCQ - Algorithms - Medium",
+    "qtext": "What is the primary goal of the greedy algorithm?",
+    "qtype": "MCQ",
+    "qoptions": [
+      "To find the optimal solution by considering all possible solutions",
+      "To find the optimal solution by making the locally optimal choice",
+      "To find the approximate solution by considering a subset of solutions",
+      "To find the approximate solution by making random choices"
+    ],
+    "qlanguage": [],
+    "difficulty": "Medium",
+    "qmulticheck": false
+  },
+  {
+    "id": "4",
+    "qno": "3",
+    "qlabel": "MCQ - OOP - Medium",
+    "qtext": "What is the primary purpose of encapsulation in object-oriented programming?",
+    "qtype": "MCQ",
+    "qoptions": [
+      "To hide the implementation details of an object from the outside world",
+      "To expose the implementation details of an object to the outside world",
+      "To provide a way to access the data members of an object directly",
+      "To provide a way to modify the data members of an object directly"
+    ],
+    "qlanguage": [],
+    "difficulty": "Medium",
+    "qmulticheck": false
+  },
+  {
+    "id": "5",
+    "qno": "4",
+    "qlabel": "MCQ - Data Structures - Hard",
+    "qtext": "What is the time complexity of the union-find algorithm with path compression and union by rank?",
+    "qtype": "MCQ",
+    "qoptions": [
+      "O(log n)",
+      "O(log* n)",
+      "O(n)",
+      "O(n log n)"
+    ],
+    "qlanguage": [],
+    "difficulty": "Hard",
+    "qmulticheck": false
+  },
+  {
+    "id": "6",
+    "qno": "5",
+    "qlabel": "Code - Linked List - Easy",
+    "qtext": "<p>Given the head of a linked list, remove the first node of the linked list.</p><p><strong>Example 1:</strong></p><pre><p><strong>Input:</strong> head = [1,2,3,4,5]</p><p><strong>Output:</strong> [2,3,4,5]</p></pre><p><strong>Constraints:</strong></p><ul><li><code>The number of nodes in the list is in the range [1, 100]</code></li><li><code>1 &lt;= Node.val &lt;= 100</code></li></ul>",
+    "qtype": "code",
+    "qoptions": [],
+    "qlanguage": [
+      "java",
+      "javascript",
+      "python",
+      "c",
+      "c++",
+      "c#",
+      "dart"
+    ],
+    "difficulty": "Easy",
+    "qmulticheck": false
+  },
+  {
+    "id": "7",
+    "qno": "6",
+    "qlabel": "Code - Stacks - Medium",
+    "qtext": "<p>Given a string containing just the characters <code>'('</code>, <code>')'</code>, <code>'{'</code>, <code>'}'</code>, <code>'['</code> and <code>']'</code>, determine if the input string is valid.</p><p>An input string is valid if:</p><ul><li>Open brackets must be closed by the same type of brackets.</li><li>Open brackets must be closed in the correct order.</li></ul><p><strong>Example 1:</strong></p><pre><p><strong>Input:</strong> s = &quot;()&quot;</p><p><strong>Output:</strong> true</p></pre><p><strong>Example 2:</strong></p><pre><p><strong>Input:</strong> s = &quot;()[]{}&quot;</p><p><strong>Output:</strong> true</p></pre><p><strong>Constraints:</strong></p><ul><li><code>1 &lt;= s.length &lt;= 10<sup>4</sup></code></li></ul>",
+    "qtype": "code",
+    "qoptions": [],
+    "qlanguage": [
+      "java",
+      "javascript",
+      "python",
+      "c",
+      "c++",
+      "c#",
+      "dart"
+    ],
+    "difficulty": "Medium",
+    "qmulticheck": false
+  },
+  {
+    "id": "8",
+    "qno": "7",
+    "qlabel": "Code - Trees - Hard",
+    "qtext": "<p>Given the root of a binary tree, return the lowest common ancestor (LCA) of two given nodes, <code>p</code> and <code>q</code>.</p><p>The number of nodes in the tree is in the range <code>[2, 10<sup>5</sup>]</code>.</p><p>It is guaranteed that both <code>p</code> and <code>q</code> exist in the tree.</p><p><strong>Example 1:</strong></p><pre><p><strong>Input:</strong> root = [3,5,1,6,2,0,8,null,null,7,4], p = 5, q = 1</p><p><strong>Output:</strong> 3</p></pre><p><strong>Example 2:</strong></p><pre><p><strong>Input:</strong> root = [3,5,1,6,2,0,8,null,null,7,4], p = 5, q = 4</p><p><strong>Output:</strong> 5</p></pre><p><strong>Constraints:</strong></p><ul><li><code>The number of nodes in the tree is in the range [2, 10<sup>5</sup>]</code></li><li><code>-10<sup>9</sup> &lt;= Node.val &lt;= 10<sup>9</sup></code></li><li><code>p != q</code></li><li><code>p</code> and <code>q</code> will exist in the tree.</li></ul>",
+    "qtype": "code",
+    "qoptions": [],
+    "qlanguage": [
+      "java",
+      "javascript",
+      "python",
+      "c",
+      "c++",
+      "c#",
+      "dart"
+    ],
+    "difficulty": "Hard",
+    "qmulticheck": false
+  },
+  {
+    "id": "9",
+    "qno": "8",
+    "qlabel": "Text - Data Structures - Easy",
+    "qtext": "A data structure that follows the Last-In-First-Out (LIFO) principle is called a __________",
+    "qtype": "Text",
+    "qoptions": [],
+    "qlanguage": [],
+    "difficulty": "Easy",
+    "qmulticheck": false
+  },
+  {
+    "id": "10",
+    "qno": "9",
+    "qlabel": "Text - Algorithms - Medium",
+    "qtext": "The time complexity of the merge sort algorithm is __________, making it suitable for large data sets",
+    "qtype": "Text",
+    "qoptions": [],
+    "qlanguage": [],
+    "difficulty": "Medium",
+    "qmulticheck": false
+  }
+]

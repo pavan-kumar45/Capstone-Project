@@ -1,0 +1,100 @@
+[
+  { "skillId": 1, "skillName": "Communication", "skillType": "primary" },
+  { "skillId": 2, "skillName": "Problem Solving", "skillType": "primary" },
+  { "skillId": 3, "skillName": "Leadership", "skillType": "primary" },
+  { "skillId": 4, "skillName": "Teamwork", "skillType": "primary" },
+  { "skillId": 5, "skillName": "Adaptability", "skillType": "primary" },
+  { "skillId": 6, "skillName": "Time Management", "skillType": "primary" },
+  { "skillId": 7, "skillName": "Decision Making", "skillType": "primary" },
+  { "skillId": 8, "skillName": "Interpersonal Skills", "skillType": "primary" },
+  {
+    "skillId": 9,
+    "skillName": "Emotional Intelligence",
+    "skillType": "primary"
+  },
+  { "skillId": 10, "skillName": "Project Management", "skillType": "primary" },
+  { "skillId": 11, "skillName": "Analytical Skills", "skillType": "primary" },
+  { "skillId": 12, "skillName": "Research Skills", "skillType": "primary" },
+  { "skillId": 13, "skillName": "Coding", "skillType": "primary" },
+  { "skillId": 14, "skillName": "Data Analysis", "skillType": "primary" },
+  { "skillId": 15, "skillName": "Marketing", "skillType": "primary" },
+  { "skillId": 16, "skillName": "Customer Service", "skillType": "primary" },
+  { "skillId": 17, "skillName": "Public Speaking", "skillType": "primary" },
+  { "skillId": 18, "skillName": "Networking", "skillType": "primary" },
+  { "skillId": 19, "skillName": "Conflict Resolution", "skillType": "primary" },
+  { "skillId": 20, "skillName": "Writing", "skillType": "primary" },
+  { "skillId": 21, "skillName": "First Aid", "skillType": "secondary" },
+  { "skillId": 22, "skillName": "CPR", "skillType": "secondary" },
+  {
+    "skillId": 23,
+    "skillName": "Database Administration",
+    "skillType": "secondary"
+  },
+  { "skillId": 24, "skillName": "Cybersecurity", "skillType": "secondary" },
+  {
+    "skillId": 25,
+    "skillName": "Network Administration",
+    "skillType": "secondary"
+  },
+  {
+    "skillId": 26,
+    "skillName": "System Administration",
+    "skillType": "secondary"
+  },
+  { "skillId": 27, "skillName": "Troubleshooting", "skillType": "secondary" },
+  { "skillId": 28, "skillName": "Database Design", "skillType": "secondary" },
+  { "skillId": 29, "skillName": "Data Entry", "skillType": "secondary" },
+  {
+    "skillId": 30,
+    "skillName": "Customer Relationship Management (CRM)",
+    "skillType": "secondary"
+  },
+  { "skillId": 31, "skillName": "Email Management", "skillType": "secondary" },
+  { "skillId": 32, "skillName": "Technical Writing", "skillType": "secondary" },
+  { "skillId": 33, "skillName": "Graphic Design", "skillType": "secondary" },
+  { "skillId": 34, "skillName": "Web Development", "skillType": "secondary" },
+  { "skillId": 35, "skillName": "UI/UX Design", "skillType": "secondary" },
+  { "skillId": 36, "skillName": "SEO/SEM", "skillType": "secondary" },
+  {
+    "skillId": 37,
+    "skillName": "Content Management",
+    "skillType": "secondary"
+  },
+  { "skillId": 38, "skillName": "Video Production", "skillType": "secondary" },
+  { "skillId": 39, "skillName": "Photography", "skillType": "secondary" },
+  { "skillId": 40, "skillName": "Editing", "skillType": "secondary" },
+  {
+    "skillId": 41,
+    "skillName": "Master of Ceremonies (MC)",
+    "skillType": "primary"
+  },
+  { "skillId": 42, "skillName": "Data Science Wizard", "skillType": "primary" },
+  {
+    "skillId": 43,
+    "skillName": "Copywriting Chameleon",
+    "skillType": "primary"
+  },
+  {
+    "skillId": 44,
+    "skillName": "Productivity Powerhouse",
+    "skillType": "primary"
+  },
+  { "skillId": 45, "skillName": "Social Media Maven", "skillType": "primary" },
+  {
+    "skillId": 46,
+    "skillName": "Linguistic Linguist",
+    "skillType": "secondary"
+  },
+  {
+    "skillId": 47,
+    "skillName": "Creative Problem Solver",
+    "skillType": "secondary"
+  },
+  {
+    "skillId": 48,
+    "skillName": "Collaboration Catalyst",
+    "skillType": "secondary"
+  },
+  { "skillId": 49, "skillName": "Design Dynamo", "skillType": "secondary" },
+  { "skillId": 50, "skillName": "Marketing Maestro", "skillType": "secondary" }
+]

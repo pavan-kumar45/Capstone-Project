@@ -1,0 +1,120 @@
+.container {
+    min-height: 100vh;
+    background-color: #f8f9fa;
+    padding: 2rem 1rem;
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
+  .title {
+    font-size: 2rem;
+    font-weight: 600;
+    color: #1a1a1a;
+    margin-bottom: 2rem;
+  }
+  
+  .feedbackCard {
+    background: white;
+    border-radius: 8px;
+    padding: 1.5rem;
+    margin-bottom: 1.5rem;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  }
+  
+  .questionHeader {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-bottom: 1rem;
+  }
+  
+  .questionTitle {
+    font-size: 1.25rem;
+    font-weight: 600;
+    color: #1a1a1a;
+    margin-bottom: 0.5rem;
+  }
+  
+  .questionText {
+    color: #4a4a4a;
+    margin: 0;
+  }
+  
+  .scoreBadge {
+    padding: 0.25rem 0.75rem;
+    border-radius: 20px;
+    font-size: 0.875rem;
+    font-weight: 500;
+  }
+  
+  .scoreGood {
+    background-color: #e6f4ea;
+    color: #137333;
+  }
+  
+  .scoreBad {
+    background-color: #fce8e6;
+    color: #c5221f;
+  }
+  
+  .sectionLabel {
+    font-weight: 500;
+    color: #1a1a1a;
+    margin-bottom: 0.5rem;
+  }
+  
+  .answerText {
+    background-color: #f8f9fa;
+    padding: 1rem;
+    border-radius: 4px;
+    color: #4a4a4a;
+    margin: 0;
+  }
+  
+  .feedbackText {
+    background-color: #e8f0fe;
+    padding: 1rem;
+    border-radius: 4px;
+    color: #4a4a4a;
+    margin: 0;
+    font-style: italic;
+  }
+  
+  .loadingContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: #f8f9fa;
+  }
+  
+  .spinner {
+    width: 3rem;
+    height: 3rem;
+    border: 4px solid #e2e8f0;
+    border-top: 4px solid #2563eb;
+    border-radius: 50%;
+    animation: spin 1s linear infinite;
+  }
+  
+  .errorContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: #f8f9fa;
+  }
+  
+  .errorMessage {
+    padding: 1rem;
+    background-color: #fee2e2;
+    border: 1px solid #fca5a5;
+    border-radius: 0.375rem;
+    color: #dc2626;
+    max-width: 800px;
+  }
+  
+  @keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+  }

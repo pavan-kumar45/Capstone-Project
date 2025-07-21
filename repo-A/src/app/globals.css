@@ -1,0 +1,50 @@
+:root {
+  --primary-color: #004cbb;
+  --primary-white: #ffffff;
+  --primary-black: #000000;
+  --secondary-white: #F8F8F8;
+  --territary-white: #f3f3f3;
+  --shiny-orange : rgb(255, 123, 0);
+  --primary-grey : #818181;
+
+  --icon-green: #15803d;
+  --icon-purple: #7e22ce;
+  --icon-red: #b91c1c;
+  --icon-orange: #b9751c;
+
+  --primary-green: #e6f3ea;
+  --primary-purple: #f9ecfe;
+  --primary-red: #faefe9;
+  --primary-orange: #ffe5d7;
+
+  --hover-green: #bfeecc;
+  --hover-purple: #e4c6f0;
+  --hover-red: #ffe5d7;
+  --hover-orange: #ffe5d7;
+  --hover-gray: #e6e6e6;
+
+  --black-layer: rgba(51, 51, 51, 0.822);
+
+  --error-red : #bb0505;
+  --notification-red:#F04141;
+
+  --verified : #47b749
+}
+html,
+body {
+  margin: 0;
+  overflow-x: hidden !important;
+  scroll-behavior: smooth;
+}
+.flex{
+  display: flex;
+}
+.justify-center{
+  justify-content: center;
+}
+.flex-row{
+  flex-direction: row;
+}
+.align-center{
+  align-items: center;
+}

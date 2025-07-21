@@ -1,0 +1,299 @@
+{
+  "basicDetails": {
+    "fullname": "Rina Williams",
+    "id": 15478,
+    "profilelastupdated": "Today",
+    "experience": {
+      "years": 5,
+      "months": 5
+    },
+    "expectedCTC": {
+      "currency": "₹",
+      "amount": "2200000"
+    },
+    "currentlocation": {
+      "country": "India",
+      "state": "Andhra Pradesh",
+      "city": "Vizianagaram",
+      "address": "null"
+    },
+    "mobilenumber": {
+      "countrycode": "91",
+      "number": "9494949453",
+      "verified": true
+    },
+    "email": {
+      "address": "rina.williams@gmail.com",
+      "verified": true
+    },
+    "githubLink": "https://github.com/sab99r",
+    "linkedinLink": "https://www.linkedin.com/in/melvin-joseph-59084817/?originalSubdomain=in",
+    "portfolioLink": "https://dribbble.com/EnvyTheme"
+  },
+  "userProfilePicLink": "../defaultProfilePic.jpeg",
+  "userProfileCompletion": 35,
+  "summary": "I am an adept software engineer with a knack for crafting robust, scalable software solutions. With a background in computer science and a passion for problem-solving, I thrive on collaborating with teams to translate complex requirements into elegant, efficient code. Continuously learning and adapting to emerging technologies, I am committed to delivering innovative solutions that exceed expectations and drive organizational growth.",
+  "resume": {
+    "name": "Rina_Williams_Resume.pdf",
+    "lastuploadeddate": "Feb 12, 2024",
+    "resumelink": "../rina_williams_resume.pdf"
+  },
+  "skills": [
+    {
+      "skillName": "Master of Ceremonies (MC)",
+      "skillId": 41,
+      "skillType": "primary"
+    },
+    {
+      "skillName": "Data Science Wizard",
+      "skillId": 42,
+      "skillType": "primary"
+    },
+    {
+      "skillName": "Copywriting Chameleon",
+      "skillId": 43,
+      "skillType": "primary"
+    },
+    {
+      "skillName": "Productivity Powerhouse",
+      "skillId": 44,
+      "skillType": "primary"
+    },
+    {
+      "skillName": "Social Media Maven",
+      "skillId": 45,
+      "skillType": "primary"
+    },
+    {
+      "skillName": "Linguistic Linguist",
+      "skillId": 46,
+      "skillType": "secondary"
+    },
+    {
+      "skillName": "Creative Problem Solver",
+      "skillId": 47,
+      "skillType": "secondary"
+    },
+    {
+      "skillName": "Collaboration Catalyst",
+      "skillId": 48,
+      "skillType": "secondary"
+    },
+    {
+      "skillName": "Design Dynamo",
+      "skillId": 49,
+      "skillType": "secondary"
+    },
+    {
+      "skillName": "Marketing Maestro",
+      "skillId": 50,
+      "skillType": "secondary"
+    }
+  ],
+  "experience": [
+    {
+      "employmentId": 112201,
+      "currentEmployment": "yes",
+      "employmentType": "Fulltime",
+      "totalExperience": {
+        "experienceyear": "5",
+        "experiencemonth": "3"
+      },
+      "companyName": "SAP LABS",
+      "designation": "Scrum Master & Associate Developer",
+      "joiningDate": {
+        "joiningyear": 2023,
+        "joiningmonth": 3
+      },
+      "leavingDate": {
+        "endingyear": "",
+        "endingmonth": ""
+      },
+      "annualSalary": {
+        "currency": "₹",
+        "amount": "2200000"
+      },
+      "jobProfile": " A Scrum Master is a key facilitator and servant leader within Agile software development teams. Responsible for guiding and coaching the team on Agile principles, practices, and methodologies, their role encompasses facilitating Scrum ceremonies, such as Sprint Planning, Daily Stand-ups, Sprint Reviews, and Retrospectives. They work tirelessly to remove impediments and obstacles that hinder the team's progress, ensuring a smooth and efficient workflow. Acting as a shield against external distractions, the Scrum Master fosters collaboration, communication, and trust within the team, promoting a culture of continuous improvement and adaptation. With a keen focus on servant leadership, the Scrum Master facilitates team self-organization and empowers members to deliver high-quality products iteratively, in line with customer needs and organizational goals.",
+      "inNoticePeriod": true
+    },
+    {
+      "employmentId": 112202,
+      "currentEmployment": "no",
+      "employmentType": "fulltime",
+      "totalExperience": {
+        "experienceyear": "2",
+        "experiencemonth": "3"
+      },
+      "companyName": "Techtronics",
+      "designation": "Frontend Developer",
+      "joiningDate": {
+        "joiningyear": 2022,
+        "joiningmonth": 3
+      },
+      "leavingDate": {
+        "endingyear": 2024,
+        "endingmonth": 3
+      },
+      "annualSalary": {
+        "currency": "",
+        "icon": "",
+        "amount": ""
+      },
+      "skillsused": [],
+      "jobProfile": "UI/UX Designers create intuitive and visually appealing interfaces that elevate user experience across digital products and platforms, collaborating closely with stakeholders to understand user needs and business objectives. They conduct user research, usability testing, and competitor analysis to inform design decisions, ensuring user-centered designs aligned with industry best practices. Wireframing, prototyping, and iterating based on feedback, they advocate for accessibility and usability standards, aiming for inclusive digital experiences. With a blend of creativity, empathy, and technical skills, they shape the look, feel, and functionality of digital products, driving user satisfaction and business growth.",
+      "inNoticePeriod": true
+    },
+    {
+      "employmentId": 112203,
+      "currentEmployment": "no",
+      "employmentType": "Internship",
+      "totalExperience": {
+        "experienceyear": null,
+        "experiencemonth": "4"
+      },
+      "companyName": "Rubel Designs",
+      "designation": "UI/UX Designer",
+      "joiningDate": {
+        "joiningyear": 2020,
+        "joiningmonth": 3
+      },
+      "leavingDate": {
+        "endingyear": 2022,
+        "endingmonth": 3
+      },
+      "annualSalary": {
+        "currency": "",
+        "icon": "",
+        "amount": ""
+      },
+      "skillsused": [],
+      "jobProfile": "UI/UX Designers create intuitive and visually appealing interfaces that elevate user experience across digital products and platforms, collaborating closely with stakeholders to understand user needs and business objectives. They conduct user research, usability testing, and competitor analysis to inform design decisions, ensuring user-centered designs aligned with industry best practices. Wireframing, prototyping, and iterating based on feedback, they advocate for accessibility and usability standards, aiming for inclusive digital experiences. With a blend of creativity, empathy, and technical skills, they shape the look, feel, and functionality of digital products, driving user satisfaction and business growth.",
+      "inNoticePeriod": true
+    }
+  ],
+  "education": [
+    {
+      "educationId": 113101,
+      "educationName": "PhD/Doctorate",
+      "universityName": "IIT Mumbai",
+      "course": "PhD/Doctorate",
+      "specialization": "Robotics and AI",
+      "courseType": "Full Time",
+      "courseDuration": {
+        "startYear": "2021",
+        "endYear": "2023"
+      },
+      "gradingSystem": "Scale 10 Grading System",
+      "marksObtained": "9.8"
+    },
+    {
+      "educationId": 113102,
+      "educationName": "Masters/Post Graduation",
+      "universityName": "IIT Chennai",
+      "course": "MTech",
+      "specialization": "Machine Learing & AI",
+      "courseType": "Full Time",
+      "courseDuration": {
+        "startYear": "2019",
+        "endYear": "2021"
+      },
+      "gradingSystem": "Scale 10 Grading System",
+      "marksObtained": "9.4"
+    },
+    {
+      "educationId": 113104,
+      "educationName": "Class 12th",
+      "universityName": "Sri Chaithanya Educational Institutions",
+      "course": "12th",
+      "specialization": "Maths, Physics, Chemistry",
+      "courseType": "Full Time",
+      "courseDuration": {
+        "startYear": "2013",
+        "endYear": "2015"
+      },
+      "gradingSystem": "Scale 10 Grading System",
+      "marksObtained": "9.2"
+    },
+    {
+      "educationId": 113105,
+      "educationName": "Class 10th",
+      "universityName": "Fort City School",
+      "course": "10th",
+      "Specialization": "",
+      "courseType": "Full Time",
+      "courseDuration": {
+        "startYear": "",
+        "endYear": "2013"
+      },
+      "gradingSystem": "Scale 10 Grading System",
+      "marksObtained": "9.2"
+    }
+  ],
+  "certifications": [
+    {
+      "id": 1440001,
+      "type": "Certification",
+      "name": "Expert on Advanced Ecommerce web portal developer",
+      "description": "This certificate acknowledges as a proficient developer in advanced e-commerce web portal development. With extensive expertise and experience in this field, has demonstrated the ability to create highly functional and scalable e-commerce platforms. Their skills encompass the utilization of cutting-edge technologies and frameworks to develop intuitive user interfaces and optimize web performance. is adept at integrating complex functionalities and tailoring solutions to meet diverse business requirements.",
+      "issuedDate": {
+        "year": "2023",
+        "month": "June"
+      },
+      "relatedLink": "randomolink.com"
+    },
+    {
+      "id": 1440002,
+      "type": "Patent",
+      "name": "Modern mouse with multiple connectivuty feature and egnormic design",
+      "description": "The Logitech MX Master 3 stands out as a versatile mouse, combining an ergonomic design with multiple connectivity options such as Bluetooth and USB. Its precision sensor and customizable buttons ensure smooth performance, meeting the demands of modern users who prioritize comfort, accuracy, and flexibility in their computing peripherals. With its sculpted shape and intuitive controls, it's the perfect choice for enhancing productivity and creativity in any workspace.",
+      "issuedDate": {
+        "year": "2021",
+        "month": "June"
+      },
+      "relatedLink": "randomolink.com"
+    }
+  ],
+  "personaldetails": {
+    "gender": "Female",
+    "maritalstatus": "Single",
+    "dob": {
+      "year": "2001",
+      "month": "March",
+      "day": "30"
+    },
+    "careerbreak": "yes",
+    "careerbreakreason": "Child Care",
+    "currentlyonbreak": "no",
+    "breakDuration": {
+      "startYear": "2012",
+      "startMonth": "March",
+      "endYear": "2013",
+      "endMonth": "March"
+    },
+    "workPermitCountries": ["USA", "India", "China", "Singapore"],
+    "permanentaddress": "PSR COLONY. Plot 125. Near park, Plot 125 Vizianagaram",
+    "languages": [
+      {
+        "languagename": "Telugu",
+        "proficiency": "Beginner",
+        "read": true,
+        "write": true,
+        "speak": true
+      },
+      {
+        "languagename": "English",
+        "proficiency": "Expert",
+        "read": true,
+        "write": true,
+        "speak": false
+      },
+      {
+        "languagename": "Hindi",
+        "proficiency": "Beginner",
+        "read": true,
+        "write": true,
+        "speak": false
+      }
+    ]
+  }
+}
